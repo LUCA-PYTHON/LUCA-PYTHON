@@ -7,7 +7,7 @@ Motivierter Developer 🚀 | Bastle kleine Projekte 🛠️ | Discord Bots 🤖 
 
 ---
   
-| 🖥️ Sprache | 🧠 Skill-Level | 🌐 Anwendungsbereich |
+| 🖥️ Sprache | 🧠 Erfahrung | 🌐 Anwendungsbereich |
 |--------------|------------|-----------------|
 | <div align="center">![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)</div> | <div align="center">![90%](https://img.shields.io/badge/90%25-brightgreen)</div> | Entwicklung von Discord-Bots, Automatisierung von Prozessen und Integration spannender Datenbanklösungen |
 | <div align="center">![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql)</div> | <div align="center">![90%](https://img.shields.io/badge/90%25-brightgreen)</div> | Planung, Verwaltung und Optimierung relationaler Datenbanken für Webprojekte und Bots |
