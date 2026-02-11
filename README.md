@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="luca_python_banner.png" alt="LUCA_PYTHON Banner" height="300" style="border-radius: 10px; border: 2px solid;>
+  <img src="luca_python_banner.png" alt="LUCA_PYTHON Banner" height="300">
 </p>
 
 ---
