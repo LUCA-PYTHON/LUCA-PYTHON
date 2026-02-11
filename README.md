@@ -13,12 +13,12 @@ Motivierter Developer 🚀 | Bastle kleine Projekte 🛠️ | Discord Bots 🤖 
   
 | 🖥️ Sprache | 🧠 Skill-Level | 🌐 Anwendungsbereich |
 |--------------|------------|-----------------|
-| <div align="center">![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)</div> | <div align="center">![90%](https://img.shields.io/badge/90%25-brightgreen)</div> | Discord Bots & Datenbankintegration |
-| <div align="center">![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)</div> | <div align="center">![20%](https://img.shields.io/badge/20%25-red)</div> | Backend-Entwicklung von Websites |
-| <div align="center">![PHP](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php)</div> | <div align="center">![60%](https://img.shields.io/badge/50%25-orange)</div> | Backend-Entwicklung von Websites |
-| <div align="center">![HTML](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=HTML5)</div> | <div align="center">![70%](https://img.shields.io/badge/70%25-yellow)</div> | Frontend-Entwicklung von Websites |
-| <div align="center">![CSS](https://img.shields.io/badge/CSS-111?style=for-the-badge&logo=css)</div> | <div align="center">![60%](https://img.shields.io/badge/70%25-yellow)</div> | Frontend-Entwicklung von Websites |
-| <div align="center">![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql)</div> | <div align="center">![90%](https://img.shields.io/badge/90%25-brightgreen)</div> | Datenbanken für Websites & Bots |
+| <div align="center">![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)</div> | <div align="center">![90%](https://img.shields.io/badge/90%25-brightgreen)</div> | Entwicklung von Discord-Bots, Automatisierung von Prozessen und Integration spannender Datenbanklösungen |
+| <div align="center">![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)</div> | <div align="center">![20%](https://img.shields.io/badge/20%25-red)</div> | Dynamische Frontend- und Backend-Funktionalitäten für Webanwendungen |
+| <div align="center">![PHP](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php)</div> | <div align="center">![60%](https://img.shields.io/badge/50%25-orange)</div> | Erstellung und Wartung von serverseitigen Webanwendungen und APIs |
+| <div align="center">![HTML](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=HTML5)</div> | <div align="center">![70%](https://img.shields.io/badge/70%25-yellow)</div> | Strukturierung und semantisches Markup von Webseiten |
+| <div align="center">![CSS](https://img.shields.io/badge/CSS-111?style=for-the-badge&logo=css)</div> | <div align="center">![60%](https://img.shields.io/badge/70%25-yellow)</div> | Gestaltung und responsives Design von Benutzeroberflächen |
+| <div align="center">![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql)</div> | <div align="center">![90%](https://img.shields.io/badge/90%25-brightgreen)</div> | Planung, Verwaltung und Optimierung relationaler Datenbanken für Webprojekte und Bots |
 
 </div>
 
