@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="luca_python_banner.png" alt="LUCA_PYTHON Banner" height="300">
-</p>
-
 ---
 <div align="center">
   
