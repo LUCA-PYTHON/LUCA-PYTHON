@@ -31,11 +31,11 @@ Motivierter Developer 🚀 | Bastle kleine Projekte 🛠️ | Discord Bots 🤖 
 ---
 
 <p align="center">
-  <a href="https://discord.gg/DEINLINK">
+  <a href="https://discord.gg/HgHdbFcD">
     <img src="https://img.shields.io/badge/Discord-111?style=for-the-badge&logo=discord" />
   </a>
-  <a href="https://instagram.com/in/DEINLINK">
-    <img src="https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram" />
+  <a href="https://github.com/NexoryOrg">
+    <img src="https://img.shields.io/badge/Nexory-111?style=for-the-badge&logo=github" />
   </a>
 </p>
 
