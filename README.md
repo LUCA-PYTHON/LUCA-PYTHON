@@ -1,20 +1,19 @@
----
 <div align="center">
   
-# Hi, ich bin Luca 👋
+# Hi, I'm Luca 👋
 
-Motivierter Developer 🚀 | Bastle kleine Projekte 🛠️ | Discord Bots 🤖 | Web & Datenbanken 💾  
+Motivated Developer 🚀 | Building small projects 🛠️ | Discord Bots 🤖 | Web & Databases 💾  
 
 ---
-  
-| 🖥️ Sprache | 🧠 Erfahrung | 🌐 Anwendungsbereich |
+
+| 🖥️ Language | 🧠 Experience | 🌐 Application Area |
 |--------------|------------|-----------------|
-| <div align="center">![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python) <br> [![Zertifikat](https://img.shields.io/badge/Zertifikat-success?style=flat)](./Zertifikat_Python.pdf) </div> | <div align="center">![90%](https://img.shields.io/badge/90%25-brightgreen) </div> | Entwicklung von Discord-Bots, Automatisierung von Prozessen und Integration spannender Datenbanklösungen |
-| <div align="center">![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql)</div> | <div align="center">![90%](https://img.shields.io/badge/90%25-brightgreen)</div> | Planung, Verwaltung und Optimierung relationaler Datenbanken für Webprojekte und Discord-Bots |
-| <div align="center">![HTML](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=HTML5)<br> [![Zertifikat](https://img.shields.io/badge/Zertifikat-success?style=flat)](./Zertifikat_html.pdf) </div> | <div align="center">![75%](https://img.shields.io/badge/75%25-greenyellow)</div> | Strukturierung und semantisches Auszeichnung von Webseiten |
-| <div align="center">![CSS](https://img.shields.io/badge/CSS-111?style=for-the-badge&logo=css)<br> [![Zertifikat](https://img.shields.io/badge/Zertifikat-success?style=flat)](./Zertifikat_css.pdf) </div> | <div align="center">![70%](https://img.shields.io/badge/70%25-yellow)</div> | Gestaltung und responsives Design von Benutzeroberflächen |
-| <div align="center">![PHP](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php)</div> | <div align="center">![60%](https://img.shields.io/badge/60%25-orange)</div> | Erstellung und Wartung von serverseitigen Webanwendungen und APIs |
-| <div align="center">![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)</div> | <div align="center">![25%](https://img.shields.io/badge/25%25-red)</div> | Dynamische Frontend- und Backend-Funktionalitäten für Webanwendungen |
+| <div align="center">![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python) <br> [![Certificate](https://img.shields.io/badge/Certificate-success?style=flat)](./Zertifikat_Python.pdf) </div> | <div align="center">Advanced</div> | Development of Discord bots, process automation, and integration of powerful database solutions |
+| <div align="center">![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql)</div> | <div align="center">Advanced</div> | Designing, managing, and optimizing relational databases for web projects and Discord bots |
+| <div align="center">![HTML](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=HTML5)<br> [![Certificate](https://img.shields.io/badge/Certificate-success?style=flat)](./Zertifikat_html.pdf) </div> | <div align="center">Intermediate</div> | Structuring and creating semantically correct web pages |
+| <div align="center">![CSS](https://img.shields.io/badge/CSS-111?style=for-the-badge&logo=css)<br> [![Certificate](https://img.shields.io/badge/Certificate-success?style=flat)](./Zertifikat_css.pdf) </div> | <div align="center">Intermediate</div> | Designing and building responsive user interfaces |
+| <div align="center">![PHP](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php)</div> | <div align="center">Basic</div> | Development and maintenance of server-side web applications and APIs |
+| <div align="center">![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)</div> | <div align="center">Basic</div> | Creating dynamic frontend and backend functionality for web applications |
 
 </div>
 
@@ -36,7 +35,7 @@ Motivierter Developer 🚀 | Bastle kleine Projekte 🛠️ | Discord Bots 🤖 
 </p>
 
 <p align="center">
-  ⚡ „Code ist nicht nur Syntax — sondern Architektur, Logik und Kreativität in Kombination.“
+  ⚡ "Code is not just syntax — it is architecture, logic, and creativity combined."
 </p>
 
 <p align="center">
