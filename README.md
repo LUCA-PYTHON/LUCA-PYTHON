@@ -26,7 +26,7 @@ Motivated Developer 🚀 | Building small projects 🛠️ | Discord Bots 🤖 |
 ---
 
 <p align="center">
-  <a href="https://discord.gg/HgHdbFcD">
+  <a href="https://discord.gg/8YfTdvt5hQ">
     <img src="https://img.shields.io/badge/Discord-111?style=for-the-badge&logo=discord" />
   </a>
   <a href="https://github.com/NexoryOrg">
