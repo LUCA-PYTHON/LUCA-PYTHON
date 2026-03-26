@@ -20,7 +20,8 @@ Motivated Developer 🚀 | Building small projects 🛠️ | Discord Bots 🤖 |
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=luca-python&theme=github_dark_dimmed" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=luca-python&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luca-python&theme=github-dark-dimmed" height="160"/>
 </p>
 
 ---
