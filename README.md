@@ -40,6 +40,8 @@
 
 ---
 
+<div align="center">
+
 <p align="center">
   <a href="https://discord.gg/8YfTdvt5hQ">
     <img src="https://img.shields.io/badge/Discord-111?style=for-the-badge&logo=discord"/>
