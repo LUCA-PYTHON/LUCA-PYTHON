@@ -17,12 +17,43 @@
 <div align="center">
 
 ### Currently working on
-  
-| Project | Description |
-|---------|-------------|
-| <div align="center">[![Nexory Discord Bot](https://img.shields.io/badge/Nexory-Discord_Bot-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/NexoryOrg/Nexory)</div> | **Nexory Discord Bot** <br>Advanced Task Management Discord Bot to streamline server workflows. |
-| <div align="center">[![Nexory.org Website](https://img.shields.io/badge/Nexory.org-Website-blueviolet?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/NexoryOrg/Nexory.org)</div> | **Nexory.org Website** <br>Official website of NexoryOrg – showcasing projects, bots, and resources. |
-| <div align="center">[![Astra Website](https://img.shields.io/badge/Astra-Website-blueviolet?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Philu2005/Astra-web)</div> | **Astra Website** <br>Astra Bot web interface – manage servers, view commands, and check status |
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/NexoryOrg/Nexory">
+        <img src="https://img.shields.io/badge/Nexory-Discord_Bot-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Nexory Discord Bot"/>
+      </a>
+      <br/>
+      <b>Nexory Discord Bot</b>
+      <br/>
+      <sub>Advanced Task Management Discord Bot to streamline server workflows.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/NexoryOrg/Nexory.org">
+        <img src="https://img.shields.io/badge/Nexory.org-Website-blueviolet?style=for-the-badge&logo=html5&logoColor=white" alt="Nexory.org Website"/>
+      </a>
+      <br/>
+      <b>Nexory.org Website</b>
+      <br/>
+      <sub>Official website of NexoryOrg – showcasing projects, bots, and resources.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Philu2005/Astra-web">
+        <img src="https://img.shields.io/badge/Astra-Website-blueviolet?style=for-the-badge&logo=html5&logoColor=white" alt="Astra Website"/>
+      </a>
+      <br/>
+      <b>Astra Website</b>
+      <br/>
+      <sub>Astra Bot web interface – manage servers, view commands, and check status.</sub>
+
+    </td>
+  </tr>
+</table>
 
 </div>
 
