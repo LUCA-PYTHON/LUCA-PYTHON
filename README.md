@@ -3,7 +3,11 @@
 # Hi, I'm Luca 👋
 
 <p align="center">
-  🐍 “You don’t just write Python… you fall in love with it.”
+  “You don’t just write Python… you fall in love with it.”
+  <br/>
+  <a href="https://docs.python.org/3/">
+    <img src="https://img.shields.io/badge/Python-Docs-blue?logo=python&logoColor=white" alt="Python Docs Badge">
+  </a>
 </p>
 
 </div>
