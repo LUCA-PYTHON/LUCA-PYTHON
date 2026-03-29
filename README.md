@@ -12,7 +12,7 @@
 
 <div align="center">
 
-### Currently working on:
+### Currently working on
   
 | Project | Description |
 |---------|-------------|
