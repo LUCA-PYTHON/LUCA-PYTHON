@@ -41,14 +41,11 @@
 
 ---
 
-<p align="center">
-  <a href="https://discord.gg/8YfTdvt5hQ">
-    <img src="https://img.shields.io/badge/Discord-111?style=for-the-badge&logo=discord"/>
-  </a>
-  <a href="https://github.com/NexoryOrg">
-    <img src="https://img.shields.io/badge/Nextory-111?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+<div align="center">
+  
+[![Discord](https://img.shields.io/badge/Discord-111?style=for-the-badge\&logo=discord)](https://discord.gg/8YfTdvt5hQ)
+[![NexoryOrg](https://img.shields.io/badge/NexoryOrg-111?style=for-the-badge&logo=github)](https://github.com/NexoryOrg)
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LUCA-PYTHON&color=blueviolet&style=flat-square" />
