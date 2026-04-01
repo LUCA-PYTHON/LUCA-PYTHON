@@ -21,7 +21,7 @@
 | Project | Description |
 |---------|-------------|
 | <div align="center">[![Nexory Discord Bot](https://img.shields.io/badge/Nexory-Discord_Bot-7289da?style=for-the-badge&logo=discord&logoColor=7289da)](https://github.com/NexoryOrg/Nexory)</div> | **Nexory Discord Bot** <br>Advanced Task Management Discord Bot to streamline server workflows. |
-| <div align="center">[![Nexory.org Website](https://img.shields.io/badge/Nexory.org-Website-9b59b6?style=for-the-badge&logo=html5&logoColor=9b59b6)](https://github.com/NexoryOrg/Nexory.org)</div> | **Nexory.org Website** <br>Official website of NexoryOrg – showcasing projects, bots, and resources. |
+| <div align="center">[![Nexory Website](https://img.shields.io/badge/Nexory-Website-9b59b6?style=for-the-badge&logo=html5&logoColor=9b59b6)](https://github.com/NexoryOrg/Nexory.org)</div> | **Nexory.org Website** <br>Official website of NexoryOrg – showcasing projects, bots, and resources. |
 | <div align="center">[![Astra Website](https://img.shields.io/badge/Astra-Website-9b59b6?style=for-the-badge&logo=html5&logoColor=9b59b6)](https://github.com/Philu2005/Astra-web)</div> | **Astra Website** <br>Astra Bot web interface – manage servers, view commands, and check status. |
 | <div align="center">[![Konik Website](https://img.shields.io/badge/Konik-Website-9b59b6?style=for-the-badge&logo=html5&logoColor=9b59b6)](https://github.com/NexoryOrg/Konik-Website)</div> | **Konik Website** <br>A privat website about the konik horses in the black forest national park. |
 
