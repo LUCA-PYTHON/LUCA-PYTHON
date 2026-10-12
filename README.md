@@ -14,16 +14,13 @@
 
 ---
 
-<div align="center">
+ <div align="center">
 
-### Currently working on
-  
+### Currently Working On
+
 | Project | Description |
-|---------|-------------|
-| <div align="center">[![Nexory-dev Discord Bot](https://img.shields.io/badge/Nexory-Discord_Bot-7289da?style=for-the-badge&logo=discord&logoColor=7289da)](https://github.com/NexoryDev/Nexory)</div> | **Nexory Discord Bot** <br>Advanced Task Management Discord Bot to streamline server workflows. |
-| <div align="center">[![Nexory-dev Website](https://img.shields.io/badge/Nexory-Website-9b59b6?style=for-the-badge&logo=html5&logoColor=9b59b6)](https://github.com/NexoryDev/nexory-dev)</div> | **Nexory-dev.de Website** <br>Official website of Nexory-dev – showcasing projects, bots, and resources. |
-| <div align="center">[![Astra Website](https://img.shields.io/badge/Astra-Website-9b59b6?style=for-the-badge&logo=html5&logoColor=9b59b6)](https://github.com/Philu2005/Astra-web)</div> | **Astra Website** <br>Astra Bot web interface – manage servers, view commands, and check status. |
-| <div align="center">[![Konik Website](https://img.shields.io/badge/Konik-Website-9b59b6?style=for-the-badge&logo=html5&logoColor=9b59b6)](https://github.com/NexoryDev/Konik-Website)</div> | **Konik Website** <br>A privat website about the konik horses in the black forest national park. |
+|:---:|:---|
+| [![C/C++ Learning](https://img.shields.io/badge/Learning-C%20%2F%20C++-7289da?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/LUCA-PYTHON/C-Programs) | **C/C++ Programs**<br>Learning C and C++ through school exercises and projects. |
 
 </div>
 
