@@ -20,7 +20,7 @@
 
 | Project | Description |
 |:---:|:---|
-| [![C/C++ Learning](https://img.shields.io/badge/Learning-C%20%2F%20C++-7289da?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/LUCA-PYTHON/C-Programs) | **C/C++ Programs**<br>Learning C and C++ through school exercises and projects. |
+| [![C Learning](https://img.shields.io/badge/Lerning-C-7289da?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/LUCA-PYTHON/C-Programs) | **C Programs**<br>Learning C through school exercises and projects. |
 
 </div>
 
