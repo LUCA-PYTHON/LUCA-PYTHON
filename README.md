@@ -20,6 +20,7 @@
 
 | Project | Description |
 |:---:|:---|
+| [![C Shell](https://img.shields.io/badge/Shell-7289da?style=for-the-badge&logo=C&logoColor=white)](https://github.com/LUCA-PYTHON/C-Shell) | **C Shell**<br>Mein erstes Projekt mit C. Eine funkionierende Shell für Linux und Windows. |
 | [![C Learning](https://img.shields.io/badge/Lerning-C-7289da?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/LUCA-PYTHON/C-Programs) | **C Programs**<br>Learning C through school exercises and projects. |
 
 </div>
