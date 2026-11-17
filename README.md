@@ -18,8 +18,8 @@
 
 | Project | Description |
 |:---:|:---|
-| [![C-Shell](https://img.shields.io/badge/C--Shell-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LUCA-PYTHON/C-Shell) | **C Shell**<br>A custom command-line shell written in C for Linux and Windows. |
-| [![C-Programs](https://img.shields.io/badge/C--Programs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LUCA-PYTHON/C-Programs) | **C Programs**<br>Learning C through school exercises, programming challenges and projects. |
+| [![rust-Shell](https://img.shields.io/badge/rust--Shell-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LUCA-PYTHON/rust-shell) | **C Shell**<br>A custom command-line shell written in rust for Linux. |
+| [![c-shell](https://img.shields.io/badge/C--Shell-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LUCA-PYTHON/C-Shell) | **C Programs**<br>A custom command-line shell written in C for Linux. |
 
 </div>
 
@@ -31,7 +31,7 @@
 
 | Category | Technologies |
 |:---|:---|
-| **Languages** | <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> |
+| **Languages** | <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" /> |
 | **Web & Frameworks** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" /> |
 | **Tools & Platforms** | <img src="https://img.shields.io/badge/GCC-A42E2B?style=flat&logo=gnu&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> |
 | **Databases** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /> |
