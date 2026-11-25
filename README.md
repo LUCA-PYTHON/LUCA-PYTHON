@@ -18,8 +18,8 @@
 
 | Project | Description |
 |:---:|:---|
-| [![rust-Shell](https://img.shields.io/badge/rust--Shell-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LUCA-PYTHON/rust-shell) | **C Shell**<br>A custom command-line shell written in rust for Linux. |
-| [![c-shell](https://img.shields.io/badge/C--Shell-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LUCA-PYTHON/C-Shell) | **C Programs**<br>A custom command-line shell written in C for Linux. |
+| [![rust-Shell](https://img.shields.io/badge/rust--Shell-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LUCA-PYTHON/rust-shell) | **rust shell**<br>A custom command-line shell written in rust for Linux. |
+| [![c-shell](https://img.shields.io/badge/C--Shell-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LUCA-PYTHON/C-Shell) | **C Shell**<br>A custom command-line shell written in C for Linux. |
 
 </div>
 
